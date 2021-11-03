@@ -1,0 +1,21 @@
+C:\Users\Админ\Desktop\Прога\Морской бой\Field of dots\Field of dots\bin\Debug\Field of dots.exe.config
+C:\Users\Админ\Desktop\Прога\Морской бой\Field of dots\Field of dots\bin\Debug\Field of dots.exe
+C:\Users\Админ\Desktop\Прога\Морской бой\Field of dots\Field of dots\bin\Debug\Field of dots.pdb
+C:\Users\Админ\Desktop\Прога\Морской бой\Field of dots\Field of dots\obj\Debug\Field of dots.csprojAssemblyReference.cache
+C:\Users\Админ\Desktop\Прога\Морской бой\Field of dots\Field of dots\obj\Debug\Field_of_dots.Form1.resources
+C:\Users\Админ\Desktop\Прога\Морской бой\Field of dots\Field of dots\obj\Debug\Field_of_dots.Properties.Resources.resources
+C:\Users\Админ\Desktop\Прога\Морской бой\Field of dots\Field of dots\obj\Debug\Field of dots.csproj.GenerateResource.cache
+C:\Users\Админ\Desktop\Прога\Морской бой\Field of dots\Field of dots\obj\Debug\Field of dots.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\Прога\Морской бой\Field of dots\Field of dots\obj\Debug\Field of dots.exe
+C:\Users\Админ\Desktop\Прога\Морской бой\Field of dots\Field of dots\obj\Debug\Field of dots.pdb
+C:\Users\Админ\Desktop\Прога\Морской бой\Field of dots\Field of dots\obj\Debug\Field_of_dots.Form2.resources
+C:\Users\Админ\Desktop\Прога\Морской бой Крапивина ЮД 06-852\Field of dots\Field of dots\bin\Debug\Field of dots.exe.config
+C:\Users\Админ\Desktop\Прога\Морской бой Крапивина ЮД 06-852\Field of dots\Field of dots\bin\Debug\Field of dots.exe
+C:\Users\Админ\Desktop\Прога\Морской бой Крапивина ЮД 06-852\Field of dots\Field of dots\bin\Debug\Field of dots.pdb
+C:\Users\Админ\Desktop\Прога\Морской бой Крапивина ЮД 06-852\Field of dots\Field of dots\obj\Debug\Field of dots.csprojAssemblyReference.cache
+C:\Users\Админ\Desktop\Прога\Морской бой Крапивина ЮД 06-852\Field of dots\Field of dots\obj\Debug\Field_of_dots.Form1.resources
+C:\Users\Админ\Desktop\Прога\Морской бой Крапивина ЮД 06-852\Field of dots\Field of dots\obj\Debug\Field_of_dots.Properties.Resources.resources
+C:\Users\Админ\Desktop\Прога\Морской бой Крапивина ЮД 06-852\Field of dots\Field of dots\obj\Debug\Field of dots.csproj.GenerateResource.cache
+C:\Users\Админ\Desktop\Прога\Морской бой Крапивина ЮД 06-852\Field of dots\Field of dots\obj\Debug\Field of dots.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\Прога\Морской бой Крапивина ЮД 06-852\Field of dots\Field of dots\obj\Debug\Field of dots.exe
+C:\Users\Админ\Desktop\Прога\Морской бой Крапивина ЮД 06-852\Field of dots\Field of dots\obj\Debug\Field of dots.pdb
